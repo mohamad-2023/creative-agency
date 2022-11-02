@@ -1,0 +1,133 @@
+.first_background {
+    background-image: url(images/bk_img.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.img_div {
+
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.slider_img {
+    height: 350px;
+    margin: 70;
+
+}
+
+.titl {
+
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.pargraph {
+
+    /* color: #6a6161;*/
+    color: #6c562d;
+    font-weight: 700;
+    font-size: 24px;
+
+
+}
+
+.btn {
+
+    border: 2px solid #00e099;
+    background: #00e099;
+    text-decoration: none;
+
+
+}
+
+.telephone_number {
+    background-color: green;
+    border: 2px solid;
+    border-radius: 14px;
+    width: 300px;
+    margin-top: -29px;
+    margin-right: 67px;
+    text-decoration: none;
+
+}
+.hi{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    color: wheat;
+
+}
+
+.number_telefon{
+    margin-top: -11px;
+    margin-left: 33px;
+}
+
+
+
+.hi1{
+    display: flex;
+    align-items:center;
+    justify-content: start;
+    color: wheat;
+}
+
+.icon_telefon{
+    margin-bottom: -11px;
+    margin-left: 51px;
+}
+.hi2{
+background-color:#4b69e9;
+margin-top: -26px;
+padding-top: 55px;
+}
+
+.icon_setting{
+    color: #00e099;
+    display: flex;
+    justify-content: center;
+
+}
+.titel_text{
+    font-size: 39px;
+    font-weight: 700;
+    color: #c5cbe8;
+}
+.service_paragraph{
+    font-weight: 400;
+line-height: 33px;
+font-family: 'poppins',sans-serif;
+color: #c5cbe8;
+font-size: 20px;
+}
+.pic_1_about_area{
+    margin-top: 25px;
+}
+
+.pic_3_about_area{
+    margin-top: -105px;
+}
+.we_make_things{
+
+    font-weight: 700;
+    font-size: 65px;
+    color: #343c55;
+}
+.paragraf_About{
+    font-family: P'oppins',sans-serif;
+    font-size: 20px;
+    line-height: 33px;
+    color: #646d8a;
+}
+.creatv_agency_head{
+    font-weight: 700;
+    font-size: 20px;
+    color: #343c55;
+    margin-bottom: 6px;
+    padding-left: 20px;
+}
